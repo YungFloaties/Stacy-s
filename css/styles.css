@@ -104,9 +104,9 @@ p:last-of-type {
 .title {
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
-    font-weight: 900;
+    font-weight: 300;
     margin-top: 1em;
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /*animation: colorAnimate 8s linear infinite;*/
 }
 
@@ -204,7 +204,7 @@ header {
     left: 0;
     right: 0;
     margin: 1em;
-
+    
 }
 .content
 {
@@ -225,13 +225,14 @@ nav {
 
 nav li {
     display: inline-block;
-    margin: .5em;
-    font-family: 'Raleway', sans-serif;;
+    margin: .4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 nav a {
-    font-weight: 900;
-    text-decoration: none;
+    font-weight: 620;
+    text-decoration: underline;
     text-transform: uppercase;
     font-size: .8rem;
     padding: .5em;
