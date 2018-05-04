@@ -209,7 +209,7 @@ header {
 .content
 {
     position:absolute;
-    top: 140px;
+    top: 180px;
     left:0px;
     right:0px;
     bottom:0px;
@@ -225,7 +225,8 @@ nav {
 
 nav li {
     display: inline-block;
-    margin: 1em;
+    margin: .5em;
+    font-family: 'Raleway', sans-serif;;
 }
 
 nav a {
