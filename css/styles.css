@@ -199,7 +199,7 @@ p:last-of-type {
 
 .button-accent:hover,
 .button-accent:focus {
-    background: #DDD;
+    background: #FFF;
     color: #232323;
 }
 
@@ -235,14 +235,12 @@ nav {
     margin: 0;
     padding: 0;
     list-style: none;
-
 }
 
 nav li {
     display: inline-block;
     margin: .2em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
 }
 
 nav a {
@@ -252,8 +250,6 @@ nav a {
     font-size: .85rem;
     padding: .3em;
     color: #FFFFFF;
-    
-   
 }
 
 
@@ -302,12 +298,12 @@ nav a:focus {
 }
 
 .home-about-textbox h1 {
-    color: #DDD;
+    color: #5628a1;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     top: .3em;
-    background: #401685;
+    background: #FFF;
     padding: 0 .25em;
 }
 
@@ -338,7 +334,7 @@ nav a:focus {
         width: 50%;
         padding: 7em;
         outline-offset: -3.75em;
-        margin-left: -2.5%;
+        /*margin-left: -2.5%; */
         top: -5em;
         text-align: left;
         box-shadow: 0 0 4em 0 rgba(0,0,0,.3);
