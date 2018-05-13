@@ -234,27 +234,25 @@ header {
 
 
 nav {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     list-style: none;
 }
 
 nav li {
     display: inline-block;
-    margin: .1em;
+    
+    margin: 0em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
 }
 
 nav a {
     font-weight: 420;
-    text-decoration: wavy;
     text-transform: uppercase;
-    font-size: 1rem;
-    padding: .2em;
+    font-size: .9rem;
+    padding: .1em;
     color: #FFFFFF;
 }
-
-
 
 nav a:hover,
 nav a:focus {
