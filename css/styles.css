@@ -240,7 +240,7 @@ nav {
 
 nav li {
     display: inline-block;
-    margin: .3em;
+    margin: .25em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
@@ -250,7 +250,7 @@ nav a {
     text-decoration: wavy;
     text-transform: uppercase;
     font-size: .85rem;
-    padding: .5em;
+    padding: .4em;
     color: #FFFFFF;
     
    
@@ -290,7 +290,7 @@ nav a:focus {
 
 
 .home-about-textbox {
-    background-color: #401685;
+    background-color: #5628a1;
     padding: 4em;
     width: 100vw;
     margin-left: -2.5%;
