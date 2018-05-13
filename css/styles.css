@@ -129,19 +129,21 @@ p:last-of-type {
     0% {
         color: #3c2c68;
     }
-    25% {
+    20% {
         color: white;
     }
-    50% {
+    40% {
         color: #3c2c68;
     }
-    75% {
+    60% {
         color: white;
+    }
+    80% {
+        color: #3c2c68;
     }
     100% {
-        color: #3c2c68;
+        color: white;
     }
-
 }
 .title span {
     font-weight: 300;
@@ -239,7 +241,7 @@ nav {
 
 nav li {
     display: inline-block;
-    margin: .2em;
+    margin: .1em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
 }
 
@@ -248,7 +250,7 @@ nav a {
     text-decoration: wavy;
     text-transform: uppercase;
     font-size: .85rem;
-    padding: .3em;
+    padding: .2em;
     color: #FFFFFF;
 }
 
