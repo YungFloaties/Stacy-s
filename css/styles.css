@@ -246,10 +246,10 @@ nav li {
 }
 
 nav a {
-    font-weight: 520;
+    font-weight: 420;
     text-decoration: wavy;
     text-transform: uppercase;
-    font-size: .85rem;
+    font-size: 1rem;
     padding: .2em;
     color: #FFFFFF;
 }
