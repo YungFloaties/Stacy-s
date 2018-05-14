@@ -132,17 +132,16 @@ p:last-of-type {
     20% {
         color: white;
     }
-    40% {
+    50% {
+
         color: #3c2c68;
     }
-    60% {
+
+    70% {
         color: white;
-    }
-    80% {
-        color: #3c2c68;
     }
     100% {
-        color: white;
+        color: #3c2c68;
     }
 }
 .title span {
