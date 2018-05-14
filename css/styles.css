@@ -31,7 +31,7 @@ img {
 .img-container {
     width: 95%;
     max-width: 70em;
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
 .clearfix::after, section::after, footer::after {
