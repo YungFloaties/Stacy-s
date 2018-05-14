@@ -13,14 +13,11 @@ body {
     text-align: center;
     background-color: #000000;
     color: #FFF;
-
-
 }
 
 img {
     max-width: 100%;
     height: auto;
-
 }
 
 .container {
@@ -38,7 +35,6 @@ img {
     content: '';
     display: block;
     clear: both;
-
 }
 
 /* Columns */
