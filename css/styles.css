@@ -241,8 +241,7 @@ nav {
 
 nav li {
     display: inline-block;
-    
-    margin: .0em;
+    margin: .2em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
 }
 
@@ -250,7 +249,7 @@ nav a {
     font-weight: 420;
     text-transform: uppercase;
     font-size: 1rem;
-    padding: .0em;
+    padding: .1em;
     color: #FFFFFF;
 }
 
